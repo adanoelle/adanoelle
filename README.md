@@ -1,7 +1,9 @@
 👋 Hi, I’m @adanoelle
 
+--- 
 
-#### Previous Accounts
+##### Previous Accounts
 
-- 🪦 [github:yngtdd](https://github.com/yngtdd)
-- 🪦 [github:yngtodd](https://github.com/yngtodd)
+🪦 [github:yngtdd](https://github.com/yngtdd)
+
+🪦 [github:yngtodd](https://github.com/yngtodd)
