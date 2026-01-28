@@ -12,6 +12,7 @@ I am interested in developing tools for archives, for creative work, and for lif
 │  Archiving ──────────────────────── garden                         │
 │  Teaching DSA ───────────────────── grimoire                       │
 │  Music Journal ──────────────────── analog                         │
+│  Personal Site ──────────────────── glitch                         │
 │                                                                    │
 └────────────────────────────────────────────────────────────────────┘
 ```
