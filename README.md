@@ -1,9 +1,6 @@
 👋 Hi, I’m @adanoelle
 
---- 
-
-##### Previous Accounts
-
+----
 
 <table width="100%">
 <tr>
@@ -14,9 +11,3 @@
   </sub></td>
 </tr>
 </table>
-
-<a href="url">Link text</a>
-
-🪦 [github:yngtdd](https://github.com/yngtdd)
-
-🪦 [github:yngtodd](https://github.com/yngtodd)
