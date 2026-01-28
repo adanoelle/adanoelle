@@ -12,6 +12,7 @@ _A Few Current Projects_
 │  Archiving ──────────────────────── garden             │
 │  Teaching DSA ───────────────────── grimoire           │
 │  Music Journal ──────────────────── analog             │
+│  MCP and Tools ──────────────────── tapestry           │
 │  Personal Site ──────────────────── glitch             │
 │                                                        │
 └────────────────────────────────────────────────────────┘
