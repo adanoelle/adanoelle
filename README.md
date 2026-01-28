@@ -1,4 +1,4 @@
-👋 Hi, I’m @adanoelle
+:seedling: Hi, I’m Ada.
 
 I am interested in developing tools for archives, for creative work, and for lifelong learners. A few tools that I love and use include _Rust_, _Typescript_, _Haskell_, _Python_, _Nixos_, _TidalCycles_, _Strudel.cc_, and more.
 
