@@ -5,16 +5,16 @@ I am interested in developing tools for archives, for creative work, and for lif
 _A Few Current Projects_
 
 ```
-┌────────────────────────────────────────────────────────────────────┐
-│                                                                    │
-│  Nixos -─────────────────────────── fern                           │
-│  Desktop Shell ──────────────────── fern-shell                     │
-│  Archiving ──────────────────────── garden                         │
-│  Teaching DSA ───────────────────── grimoire                       │
-│  Music Journal ──────────────────── analog                         │
-│  Personal Site ──────────────────── glitch                         │
-│                                                                    │
-└────────────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────┐
+│                                                        │
+│  Nixos -─────────────────────────── fern               │
+│  Desktop Shell ──────────────────── fern-shell         │
+│  Archiving ──────────────────────── garden             │
+│  Teaching DSA ───────────────────── grimoire           │
+│  Music Journal ──────────────────── analog             │
+│  Personal Site ──────────────────── glitch             │
+│                                                        │
+└────────────────────────────────────────────────────────┘
 ```
 
 <hr style="border: 0.2px solid gray; width:40%;">
