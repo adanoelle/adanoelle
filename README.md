@@ -10,6 +10,7 @@ _A Few Current Projects_
 │  Nixos -─────────────────────────── fern               │
 │  Desktop Shell ──────────────────── fern-shell         │
 │  Archiving ──────────────────────── garden             │
+|  Studio ─────────────────────────── creative practice  |
 │  Teaching DSA ───────────────────── grimoire           │
 │  Music Journal ──────────────────── analog             │
 │  MCP and Tools ──────────────────── tapestry           │
